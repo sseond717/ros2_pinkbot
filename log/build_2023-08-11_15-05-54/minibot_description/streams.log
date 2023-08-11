@@ -1,0 +1,48 @@
+[0.095s] Invoking command in '/home/kiro04/pinkbot/build/minibot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_description -- -j8 -l8
+[1.135s] Invoked command in '/home/kiro04/pinkbot/build/minibot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_description -- -j8 -l8
+[1.406s] Invoking command in '/home/kiro04/pinkbot/build/minibot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_description
+[1.538s] -- Install configuration: ""
+[1.539s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/launch
+[1.539s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/launch/view_robot.launch.py
+[1.539s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/launch/upload_robot.launch.py
+[1.539s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes
+[1.540s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/collision
+[1.540s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/ydlidar_x2_assy.stl
+[1.540s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/ul_sensor.stl
+[1.540s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/wheel.stl
+[1.540s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/base_link.stl
+[1.541s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/front_camera.stl
+[1.541s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/visual
+[1.541s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/wheel.dae
+[1.541s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/ul_sensor.dae
+[1.541s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/ydlidar_x2_assy.dae
+[1.542s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/base_link.dae
+[1.542s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/front_camera.dae
+[1.542s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/front_camera.png
+[1.558s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/ydlidar_x2.png
+[1.558s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/wheel.png
+[1.558s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/rviz
+[1.559s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/rviz/view_robot.rviz
+[1.559s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/urdf
+[1.559s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/urdf/common
+[1.559s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/urdf/common/inertia_macro.urdf.xacro
+[1.559s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/urdf/minibot.urdf.xacro
+[1.560s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/urdf/robot.urdf.xacro
+[1.560s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/urdf/minibot_gazebo.urdf.xacro
+[1.560s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/urdf/minibot_ros2_control.urdf.xacro
+[1.560s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/ament_index/resource_index/package_run_dependencies/minibot_description
+[1.560s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/ament_index/resource_index/parent_prefix_path/minibot_description
+[1.561s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/environment/ament_prefix_path.sh
+[1.561s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/environment/ament_prefix_path.dsv
+[1.561s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/environment/path.sh
+[1.561s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/environment/path.dsv
+[1.561s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/local_setup.bash
+[1.562s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/local_setup.sh
+[1.562s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/local_setup.zsh
+[1.562s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/local_setup.dsv
+[1.562s] -- Installing: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/package.dsv
+[1.562s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/ament_index/resource_index/packages/minibot_description
+[1.563s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/cmake/minibot_descriptionConfig.cmake
+[1.563s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/cmake/minibot_descriptionConfig-version.cmake
+[1.563s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_description/share/minibot_description/package.xml
+[1.564s] Invoked command in '/home/kiro04/pinkbot/build/minibot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_description

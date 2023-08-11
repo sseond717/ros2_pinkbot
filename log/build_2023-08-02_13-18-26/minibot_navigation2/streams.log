@@ -1,0 +1,72 @@
+[0.026s] Invoking command in '/home/kiro04/pinkbot/build/minibot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake /home/kiro04/pinkbot/src/pinklab_minibot_robot/minibot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/kiro04/pinkbot/install/minibot_navigation2
+[0.187s] -- The C compiler identification is GNU 11.4.0
+[0.286s] -- The CXX compiler identification is GNU 11.4.0
+[0.316s] -- Detecting C compiler ABI info
+[0.408s] -- Detecting C compiler ABI info - done
+[0.440s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.441s] -- Detecting C compile features
+[0.442s] -- Detecting C compile features - done
+[0.456s] -- Detecting CXX compiler ABI info
+[0.571s] -- Detecting CXX compiler ABI info - done
+[0.601s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.601s] -- Detecting CXX compile features
+[0.602s] -- Detecting CXX compile features - done
+[0.607s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.204s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.352s] -- Found slam_toolbox: 2.6.4 (/opt/ros/humble/share/slam_toolbox/cmake)
+[1.420s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.428s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.443s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.469s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.510s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.908s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.913s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.090s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.141s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.246s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.265s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.355s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.357s] -- Found Threads: TRUE  
+[4.651s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[4.654s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[4.654s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[4.933s] -- Setting OGRE_DIR to: '/opt/ros/humble/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[4.935s] -- Found OGRE
+[4.935s] --   static     : OFF
+[4.936s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[4.936s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[4.936s] --   media      : /opt/ros/humble/opt/rviz_ogre_vendor/share/OGRE/Media
+[4.936s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[4.937s] -- OGRE_LIBRARY_DIRS: /opt/ros/humble/opt/rviz_ogre_vendor/lib
+[4.937s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[4.937s] -- OGRE_PLUGIN_DIR: /opt/ros/humble/opt/rviz_ogre_vendor/lib/OGRE
+[4.937s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[4.937s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[4.938s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[4.938s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[4.997s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11")  
+[5.014s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+[5.291s] -- Found X11: /usr/include   
+[5.291s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[5.444s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[5.444s] -- Looking for gethostbyname
+[5.549s] -- Looking for gethostbyname - found
+[5.555s] -- Looking for connect
+[5.679s] -- Looking for connect - found
+[5.680s] -- Looking for remove
+[5.850s] -- Looking for remove - found
+[5.851s] -- Looking for shmat
+[6.124s] -- Looking for shmat - found
+[6.125s] -- Looking for IceConnectionNumber in ICE
+[6.361s] -- Looking for IceConnectionNumber in ICE - found
+[6.370s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_RELEASE: _render_system_gl_static_library_abs-NOTFOUND
+[6.370s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_DEBUG: _render_system_gl_static_library_abs-NOTFOUND
+[6.634s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[7.600s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[7.697s] -- Added test 'flake8' to check Python code syntax and style conventions
+[7.698s] -- Added test 'lint_cmake' to check CMake code style
+[7.699s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[7.700s] -- Added test 'xmllint' to check XML markup files
+[7.702s] -- Configuring done (7.6s)
+[7.710s] -- Generating done (0.0s)
+[7.714s] -- Build files have been written to: /home/kiro04/pinkbot/build/minibot_navigation2

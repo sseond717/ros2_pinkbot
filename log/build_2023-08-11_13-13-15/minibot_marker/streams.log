@@ -1,0 +1,27 @@
+[2.079s] Invoking command in '/home/kiro04/pinkbot/src/pinklab_minibot_robot/minibot_marker': PYTHONPATH=/home/kiro04/pinkbot/build/minibot_marker/prefix_override:/home/kiro04/pinkbot/install/minibot_marker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/minibot_marker build --build-base /home/kiro04/pinkbot/build/minibot_marker/build install --record /home/kiro04/pinkbot/build/minibot_marker/install.log --single-version-externally-managed
+[2.989s] running egg_info
+[2.995s] writing ../../../build/minibot_marker/minibot_marker.egg-info/PKG-INFO
+[2.996s] writing dependency_links to ../../../build/minibot_marker/minibot_marker.egg-info/dependency_links.txt
+[2.996s] writing entry points to ../../../build/minibot_marker/minibot_marker.egg-info/entry_points.txt
+[2.996s] writing requirements to ../../../build/minibot_marker/minibot_marker.egg-info/requires.txt
+[2.996s] writing top-level names to ../../../build/minibot_marker/minibot_marker.egg-info/top_level.txt
+[2.996s] reading manifest file '../../../build/minibot_marker/minibot_marker.egg-info/SOURCES.txt'
+[2.997s] writing manifest file '../../../build/minibot_marker/minibot_marker.egg-info/SOURCES.txt'
+[2.997s] running build
+[2.998s] running build_py
+[2.999s] copying minibot_marker/marker_publisher.py -> /home/kiro04/pinkbot/build/minibot_marker/build/lib/minibot_marker
+[2.999s] running install
+[2.999s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.999s]   warnings.warn(
+[3.000s] running install_lib
+[3.001s] copying /home/kiro04/pinkbot/build/minibot_marker/build/lib/minibot_marker/marker_publisher.py -> /home/kiro04/pinkbot/install/minibot_marker/lib/python3.10/site-packages/minibot_marker
+[3.010s] byte-compiling /home/kiro04/pinkbot/install/minibot_marker/lib/python3.10/site-packages/minibot_marker/marker_publisher.py to marker_publisher.cpython-310.pyc
+[3.010s] running install_data
+[3.010s] running install_egg_info
+[3.011s] removing '/home/kiro04/pinkbot/install/minibot_marker/lib/python3.10/site-packages/minibot_marker-0.0.0-py3.10.egg-info' (and everything under it)
+[3.012s] Copying ../../../build/minibot_marker/minibot_marker.egg-info to /home/kiro04/pinkbot/install/minibot_marker/lib/python3.10/site-packages/minibot_marker-0.0.0-py3.10.egg-info
+[3.020s] running install_scripts
+[3.057s] Installing cmd_vel_publisher script to /home/kiro04/pinkbot/install/minibot_marker/lib/minibot_marker
+[3.057s] Installing marker_publisher script to /home/kiro04/pinkbot/install/minibot_marker/lib/minibot_marker
+[3.057s] writing list of installed files to '/home/kiro04/pinkbot/build/minibot_marker/install.log'
+[3.119s] Invoked command in '/home/kiro04/pinkbot/src/pinklab_minibot_robot/minibot_marker' returned '0': PYTHONPATH=/home/kiro04/pinkbot/build/minibot_marker/prefix_override:/home/kiro04/pinkbot/install/minibot_marker/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/minibot_marker build --build-base /home/kiro04/pinkbot/build/minibot_marker/build install --record /home/kiro04/pinkbot/build/minibot_marker/install.log --single-version-externally-managed

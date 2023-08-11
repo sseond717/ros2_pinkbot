@@ -1,0 +1,9 @@
+/home/kiro04/pinkbot/build/minibot_gazebo/CMakeFiles/uninstall.dir
+/home/kiro04/pinkbot/build/minibot_gazebo/CMakeFiles/minibot_gazebo_uninstall.dir
+/home/kiro04/pinkbot/build/minibot_gazebo/CMakeFiles/test.dir
+/home/kiro04/pinkbot/build/minibot_gazebo/CMakeFiles/edit_cache.dir
+/home/kiro04/pinkbot/build/minibot_gazebo/CMakeFiles/rebuild_cache.dir
+/home/kiro04/pinkbot/build/minibot_gazebo/CMakeFiles/list_install_components.dir
+/home/kiro04/pinkbot/build/minibot_gazebo/CMakeFiles/install.dir
+/home/kiro04/pinkbot/build/minibot_gazebo/CMakeFiles/install/local.dir
+/home/kiro04/pinkbot/build/minibot_gazebo/CMakeFiles/install/strip.dir

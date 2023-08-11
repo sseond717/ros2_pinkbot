@@ -1,0 +1,71 @@
+[0.062s] Invoking command in '/home/kiro04/pinkbot/build/minibot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_interfaces -- -j8 -l8
+[0.559s] Traceback (most recent call last):
+[0.559s]   File "/home/kiro04/pinkbot/build/minibot_interfaces/ament_cmake_python/minibot_interfaces/setup.py", line 1, in <module>
+[0.559s]     from setuptools import find_packages
+[0.560s]   File "/usr/lib/python3/dist-packages/setuptools/__init__.py", line 16, in <module>
+[0.560s]     import setuptools.version
+[0.560s]   File "/usr/lib/python3/dist-packages/setuptools/version.py", line 1, in <module>
+[0.560s]     import pkg_resources
+[0.561s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3267, in <module>
+[0.561s]     def _initialize_master_working_set():
+[0.561s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3241, in _call_aside
+[0.561s]     f(*args, **kwargs)
+[0.561s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3302, in _initialize_master_working_set
+[0.561s]     list(map(working_set.add_entry, sys.path))
+[0.561s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 613, in add_entry
+[0.561s]     for dist in find_distributions(entry, True):
+[0.561s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2077, in find_on_path
+[0.561s]     for dist in factory(fullpath):
+[0.561s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2142, in distributions_from_metadata
+[0.562s]     yield Distribution.from_location(
+[0.562s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2606, in from_location
+[0.562s]     )._reload_version()
+[0.562s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3004, in _reload_version
+[0.562s]     md_version = self._get_version()
+[0.562s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2785, in _get_version
+[0.562s]     version = _version_from_file(lines)
+[0.562s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2569, in _version_from_file
+[0.562s]     line = next(iter(version_lines), '')
+[0.562s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2780, in _get_metadata
+[0.562s]     for line in self.get_metadata_lines(name):
+[0.562s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 1422, in get_metadata_lines
+[0.563s]     return yield_lines(self.get_metadata(name))
+[0.563s]   File "/usr/lib/python3.10/functools.py", line 889, in wrapper
+[0.563s]     return dispatch(args[0].__class__)(*args, **kw)
+[0.563s]   File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2411, in _
+[0.563s]     return filter(_nonblank, map(str.strip, text.splitlines()))
+[0.563s] KeyboardInterrupt
+[0.563s] [  2%] Built target minibot_interfaces__cpp
+[0.563s] [ 12%] Built target minibot_interfaces__rosidl_generator_c
+[0.563s] [ 12%] Built target ament_cmake_python_copy_minibot_interfaces
+[0.564s] [ 23%] Built target minibot_interfaces__rosidl_typesupport_introspection_cpp
+[0.564s] [ 33%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.564s] [ 43%] Built target minibot_interfaces__rosidl_typesupport_introspection_c
+[0.564s] [ 53%] Built target minibot_interfaces__rosidl_typesupport_c
+[0.564s] [ 64%] Built target minibot_interfaces__rosidl_typesupport_cpp
+[0.564s] [ 74%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c
+[0.564s] [ 74%] Built target minibot_interfaces
+[0.564s] [ 76%] Built target minibot_interfaces__py
+[0.564s] [ 84%] Built target minibot_interfaces__rosidl_generator_py
+[0.564s] [ 92%] Built target minibot_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.565s] [ 94%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.565s] [100%] Built target minibot_interfaces__rosidl_typesupport_c__pyext
+[0.579s] gmake[2]: *** [CMakeFiles/ament_cmake_python_build_minibot_interfaces_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_minibot_interfaces_egg] Interrupt
+[0.579s] gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_minibot_interfaces_egg.dir/all] Interrupt
+[0.579s] gmake: *** [Makefile:146: all] Interrupt
+[0.611s] Traceback (most recent call last):
+[0.612s]   File "/home/kiro04/.local/bin/cmake", line 33, in <module>
+[0.612s]     sys.exit(load_entry_point('cmake', 'console_scripts', 'cmake')())
+[0.612s]   File "/home/kiro04/.local/lib/python3.10/site-packages/cmake/__init__.py", line 43, in cmake
+[0.612s]     raise SystemExit(_program('cmake', sys.argv[1:]))
+[0.613s]   File "/home/kiro04/.local/lib/python3.10/site-packages/cmake/__init__.py", line 39, in _program
+[0.613s]     return subprocess.call([os.path.join(CMAKE_BIN_DIR, name)] + args, close_fds=False)
+[0.613s]   File "/usr/lib/python3.10/subprocess.py", line 347, in call
+[0.613s]     return p.wait(timeout=timeout)
+[0.613s]   File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+[0.614s]     return self._wait(timeout=timeout)
+[0.614s]   File "/usr/lib/python3.10/subprocess.py", line 1959, in _wait
+[0.614s]     (pid, sts) = self._try_wait(0)
+[0.614s]   File "/usr/lib/python3.10/subprocess.py", line 1917, in _try_wait
+[0.614s]     (pid, sts) = os.waitpid(self.pid, wait_flags)
+[0.614s] KeyboardInterrupt

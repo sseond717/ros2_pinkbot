@@ -1,0 +1,24 @@
+[1.988s] Invoking command in '/home/kiro04/pinkbot/src/yolo_package': PYTHONPATH=/home/kiro04/pinkbot/build/yolo_package/prefix_override:/home/kiro04/pinkbot/install/yolo_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/yolo_package build --build-base /home/kiro04/pinkbot/build/yolo_package/build install --record /home/kiro04/pinkbot/build/yolo_package/install.log --single-version-externally-managed
+[2.640s] running egg_info
+[2.640s] writing ../../build/yolo_package/yolo_package.egg-info/PKG-INFO
+[2.640s] writing dependency_links to ../../build/yolo_package/yolo_package.egg-info/dependency_links.txt
+[2.641s] writing entry points to ../../build/yolo_package/yolo_package.egg-info/entry_points.txt
+[2.641s] writing requirements to ../../build/yolo_package/yolo_package.egg-info/requires.txt
+[2.641s] writing top-level names to ../../build/yolo_package/yolo_package.egg-info/top_level.txt
+[2.646s] reading manifest file '../../build/yolo_package/yolo_package.egg-info/SOURCES.txt'
+[2.647s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.647s]   warnings.warn(
+[2.647s] writing manifest file '../../build/yolo_package/yolo_package.egg-info/SOURCES.txt'
+[2.647s] running build
+[2.647s] running build_py
+[2.647s] running install
+[2.647s] running install_lib
+[2.648s] running install_data
+[2.652s] running install_egg_info
+[2.658s] removing '/home/kiro04/pinkbot/install/yolo_package/lib/python3.10/site-packages/yolo_package-0.0.0-py3.10.egg-info' (and everything under it)
+[2.658s] Copying ../../build/yolo_package/yolo_package.egg-info to /home/kiro04/pinkbot/install/yolo_package/lib/python3.10/site-packages/yolo_package-0.0.0-py3.10.egg-info
+[2.658s] running install_scripts
+[2.695s] Installing yolo_madel script to /home/kiro04/pinkbot/install/yolo_package/lib/yolo_package
+[2.695s] Installing yolo_node script to /home/kiro04/pinkbot/install/yolo_package/lib/yolo_package
+[2.696s] writing list of installed files to '/home/kiro04/pinkbot/build/yolo_package/install.log'
+[2.762s] Invoked command in '/home/kiro04/pinkbot/src/yolo_package' returned '0': PYTHONPATH=/home/kiro04/pinkbot/build/yolo_package/prefix_override:/home/kiro04/pinkbot/install/yolo_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/yolo_package build --build-base /home/kiro04/pinkbot/build/yolo_package/build install --record /home/kiro04/pinkbot/build/yolo_package/install.log --single-version-externally-managed

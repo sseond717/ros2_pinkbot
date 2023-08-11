@@ -1,0 +1,70 @@
+Traceback (most recent call last):
+  File "/home/kiro04/pinkbot/build/minibot_interfaces/ament_cmake_python/minibot_interfaces/setup.py", line 1, in <module>
+    from setuptools import find_packages
+  File "/usr/lib/python3/dist-packages/setuptools/__init__.py", line 16, in <module>
+    import setuptools.version
+  File "/usr/lib/python3/dist-packages/setuptools/version.py", line 1, in <module>
+    import pkg_resources
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3267, in <module>
+    def _initialize_master_working_set():
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3241, in _call_aside
+    f(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3302, in _initialize_master_working_set
+    list(map(working_set.add_entry, sys.path))
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 613, in add_entry
+    for dist in find_distributions(entry, True):
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2077, in find_on_path
+    for dist in factory(fullpath):
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2142, in distributions_from_metadata
+    yield Distribution.from_location(
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2606, in from_location
+    )._reload_version()
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 3004, in _reload_version
+    md_version = self._get_version()
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2785, in _get_version
+    version = _version_from_file(lines)
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2569, in _version_from_file
+    line = next(iter(version_lines), '')
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2780, in _get_metadata
+    for line in self.get_metadata_lines(name):
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 1422, in get_metadata_lines
+    return yield_lines(self.get_metadata(name))
+  File "/usr/lib/python3.10/functools.py", line 889, in wrapper
+    return dispatch(args[0].__class__)(*args, **kw)
+  File "/usr/lib/python3/dist-packages/pkg_resources/__init__.py", line 2411, in _
+    return filter(_nonblank, map(str.strip, text.splitlines()))
+KeyboardInterrupt
+[  2%] Built target minibot_interfaces__cpp
+[ 12%] Built target minibot_interfaces__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_copy_minibot_interfaces
+[ 23%] Built target minibot_interfaces__rosidl_typesupport_introspection_cpp
+[ 33%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_cpp
+[ 43%] Built target minibot_interfaces__rosidl_typesupport_introspection_c
+[ 53%] Built target minibot_interfaces__rosidl_typesupport_c
+[ 64%] Built target minibot_interfaces__rosidl_typesupport_cpp
+[ 74%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c
+[ 74%] Built target minibot_interfaces
+[ 76%] Built target minibot_interfaces__py
+[ 84%] Built target minibot_interfaces__rosidl_generator_py
+[ 92%] Built target minibot_interfaces__rosidl_typesupport_introspection_c__pyext
+[ 94%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[100%] Built target minibot_interfaces__rosidl_typesupport_c__pyext
+gmake[2]: *** [CMakeFiles/ament_cmake_python_build_minibot_interfaces_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_minibot_interfaces_egg] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_minibot_interfaces_egg.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt
+Traceback (most recent call last):
+  File "/home/kiro04/.local/bin/cmake", line 33, in <module>
+    sys.exit(load_entry_point('cmake', 'console_scripts', 'cmake')())
+  File "/home/kiro04/.local/lib/python3.10/site-packages/cmake/__init__.py", line 43, in cmake
+    raise SystemExit(_program('cmake', sys.argv[1:]))
+  File "/home/kiro04/.local/lib/python3.10/site-packages/cmake/__init__.py", line 39, in _program
+    return subprocess.call([os.path.join(CMAKE_BIN_DIR, name)] + args, close_fds=False)
+  File "/usr/lib/python3.10/subprocess.py", line 347, in call
+    return p.wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1959, in _wait
+    (pid, sts) = self._try_wait(0)
+  File "/usr/lib/python3.10/subprocess.py", line 1917, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+KeyboardInterrupt

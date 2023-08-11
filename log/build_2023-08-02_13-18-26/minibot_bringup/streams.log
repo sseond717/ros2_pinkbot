@@ -1,0 +1,26 @@
+[0.012s] Invoking command in '/home/kiro04/pinkbot/build/minibot_bringup': AMENT_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/minibot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/minibot_description:/opt/ros/humble /home/kiro04/.local/bin/cmake /home/kiro04/pinkbot/src/pinklab_minibot_robot/minibot_bringup -DCMAKE_INSTALL_PREFIX=/home/kiro04/pinkbot/install/minibot_bringup
+[0.166s] -- The C compiler identification is GNU 11.4.0
+[0.269s] -- The CXX compiler identification is GNU 11.4.0
+[0.296s] -- Detecting C compiler ABI info
+[0.382s] -- Detecting C compiler ABI info - done
+[0.414s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.415s] -- Detecting C compile features
+[0.416s] -- Detecting C compile features - done
+[0.431s] -- Detecting CXX compiler ABI info
+[0.545s] -- Detecting CXX compiler ABI info - done
+[0.579s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.580s] -- Detecting CXX compile features
+[0.581s] -- Detecting CXX compile features - done
+[0.588s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.461s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.699s] -- Found minibot_gazebo: 0.0.0 (/home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/cmake)
+[1.701s] -- Found minibot_description: 0.0.0 (/home/kiro04/pinkbot/install/minibot_description/share/minibot_description/cmake)
+[1.706s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.996s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.003s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.008s] -- Added test 'lint_cmake' to check CMake code style
+[2.011s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.028s] -- Added test 'xmllint' to check XML markup files
+[2.033s] -- Configuring done (1.9s)
+[2.044s] -- Generating done (0.0s)
+[2.050s] -- Build files have been written to: /home/kiro04/pinkbot/build/minibot_bringup

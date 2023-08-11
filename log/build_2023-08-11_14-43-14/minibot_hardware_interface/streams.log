@@ -1,0 +1,32 @@
+[0.061s] Invoking command in '/home/kiro04/pinkbot/build/minibot_hardware_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_hardware_interface -- -j8 -l8
+[0.621s] [100%] Built target minibot_hardware_interface
+[1.075s] Invoked command in '/home/kiro04/pinkbot/build/minibot_hardware_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_hardware_interface -- -j8 -l8
+[1.459s] Invoking command in '/home/kiro04/pinkbot/build/minibot_hardware_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_hardware_interface
+[1.642s] -- Install configuration: ""
+[1.642s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/minibot_hardware.xml
+[1.642s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/lib/libminibot_hardware_interface.so
+[1.642s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/include
+[1.644s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/include/minibot_hardware_interface
+[1.644s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/include/minibot_hardware_interface/minibot_system.hpp
+[1.644s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/library_path.sh
+[1.645s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/library_path.dsv
+[1.645s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/package_run_dependencies/minibot_hardware_interface
+[1.645s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/parent_prefix_path/minibot_hardware_interface
+[1.645s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/ament_prefix_path.sh
+[1.646s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/ament_prefix_path.dsv
+[1.646s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/path.sh
+[1.646s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/path.dsv
+[1.656s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.bash
+[1.656s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.sh
+[1.656s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.zsh
+[1.656s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.dsv
+[1.657s] -- Installing: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/package.dsv
+[1.657s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/packages/minibot_hardware_interface
+[1.658s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/minibot_hardware_interface
+[1.658s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.659s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[1.659s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.659s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/minibot_hardware_interfaceConfig.cmake
+[1.659s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/minibot_hardware_interfaceConfig-version.cmake
+[1.659s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/package.xml
+[1.744s] Invoked command in '/home/kiro04/pinkbot/build/minibot_hardware_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_hardware_interface

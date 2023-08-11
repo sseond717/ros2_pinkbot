@@ -1,0 +1,138 @@
+[0.027s] Invoking command in '/home/kiro04/pinkbot/build/minibot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake /home/kiro04/pinkbot/src/pinklab_minibot_robot/minibot_interfaces -DCMAKE_INSTALL_PREFIX=/home/kiro04/pinkbot/install/minibot_interfaces
+[0.188s] -- The C compiler identification is GNU 11.4.0
+[0.287s] -- The CXX compiler identification is GNU 11.4.0
+[0.317s] -- Detecting C compiler ABI info
+[0.410s] -- Detecting C compiler ABI info - done
+[0.432s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.432s] -- Detecting C compile features
+[0.433s] -- Detecting C compile features - done
+[0.445s] -- Detecting CXX compiler ABI info
+[0.557s] -- Detecting CXX compiler ABI info - done
+[0.578s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.579s] -- Detecting CXX compile features
+[0.580s] -- Detecting CXX compile features - done
+[0.585s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.195s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.353s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[1.423s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.433s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.448s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.474s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.525s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.653s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.438s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.687s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.219s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.225s] [33mCMake Warning (dev) at /opt/ros/humble/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:20 (find_package):
+[4.225s]   Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+[4.225s]   are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+[4.225s]   the cmake_policy command to set the policy and suppress this warning.
+[4.225s] 
+[4.226s] Call Stack (most recent call first):
+[4.226s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[4.226s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[4.226s]   CMakeLists.txt:13 (rosidl_generate_interfaces)
+[4.226s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[4.226s] [0m
+[4.260s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[4.262s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.263s] [33mCMake Warning (dev) at /opt/ros/humble/share/python_cmake_module/cmake/Modules/FindPythonExtra.cmake:52 (find_package):
+[4.263s]   Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+[4.263s]   are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+[4.263s]   the cmake_policy command to set the policy and suppress this warning.
+[4.263s] 
+[4.264s] Call Stack (most recent call first):
+[4.264s]   /opt/ros/humble/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:23 (find_package)
+[4.264s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[4.264s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[4.264s]   CMakeLists.txt:13 (rosidl_generate_interfaces)
+[4.264s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[4.265s] [0m
+[4.295s] [33mCMake Warning (dev) at /opt/ros/humble/share/python_cmake_module/cmake/Modules/FindPythonExtra.cmake:140 (find_package):
+[4.296s]   Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+[4.296s]   are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+[4.296s]   the cmake_policy command to set the policy and suppress this warning.
+[4.296s] 
+[4.297s] Call Stack (most recent call first):
+[4.297s]   /opt/ros/humble/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:23 (find_package)
+[4.297s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[4.297s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[4.297s]   CMakeLists.txt:13 (rosidl_generate_interfaces)
+[4.297s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[4.297s] [0m
+[4.311s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[4.311s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.311s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.312s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[4.348s] -- Found PythonExtra: .so  
+[4.443s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.476s] -- Added test 'lint_cmake' to check CMake code style
+[4.478s] -- Added test 'xmllint' to check XML markup files
+[4.484s] -- Configuring done (4.4s)
+[4.561s] -- Generating done (0.1s)
+[4.566s] -- Build files have been written to: /home/kiro04/pinkbot/build/minibot_interfaces
+[4.594s] Invoked command in '/home/kiro04/pinkbot/build/minibot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake /home/kiro04/pinkbot/src/pinklab_minibot_robot/minibot_interfaces -DCMAKE_INSTALL_PREFIX=/home/kiro04/pinkbot/install/minibot_interfaces
+[4.597s] Invoking command in '/home/kiro04/pinkbot/build/minibot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_interfaces -- -j8 -l8
+[4.723s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[4.732s] [  2%] Built target ament_cmake_python_copy_minibot_interfaces
+[4.733s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[5.212s] [  5%] Built target minibot_interfaces__cpp
+[5.220s] [ 10%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[5.220s] [ 10%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[5.221s] [ 12%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[5.358s] running egg_info
+[5.360s] creating minibot_interfaces.egg-info
+[5.360s] writing minibot_interfaces.egg-info/PKG-INFO
+[5.361s] writing dependency_links to minibot_interfaces.egg-info/dependency_links.txt
+[5.361s] writing top-level names to minibot_interfaces.egg-info/top_level.txt
+[5.362s] writing manifest file 'minibot_interfaces.egg-info/SOURCES.txt'
+[5.369s] [ 17%] [32mBuilding C object CMakeFiles/minibot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/minibot_interfaces/msg/detail/lamp_command__functions.c.o[0m
+[5.369s] [ 17%] [32mBuilding C object CMakeFiles/minibot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/minibot_interfaces/msg/detail/robot_state__functions.c.o[0m
+[5.369s] reading manifest file 'minibot_interfaces.egg-info/SOURCES.txt'
+[5.370s] writing manifest file 'minibot_interfaces.egg-info/SOURCES.txt'
+[5.441s] [ 17%] Built target ament_cmake_python_build_minibot_interfaces_egg
+[5.473s] [ 20%] [32m[1mLinking C shared library libminibot_interfaces__rosidl_generator_c.so[0m
+[5.530s] [ 20%] Built target minibot_interfaces__rosidl_generator_c
+[5.541s] [ 23%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[5.542s] [ 28%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[5.542s] [ 28%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[5.873s] [ 30%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/minibot_interfaces/msg/lamp_command__type_support.cpp.o[0m
+[5.887s] [ 33%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/minibot_interfaces/msg/robot_state__type_support.cpp.o[0m
+[5.939s] [ 35%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/minibot_interfaces/msg/detail/lamp_command__type_support.cpp.o[0m
+[5.968s] [ 41%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/minibot_interfaces/msg/detail/robot_state__type_support.cpp.o[0m
+[5.969s] [ 41%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/minibot_interfaces/msg/detail/dds_fastrtps/lamp_command__type_support.cpp.o[0m
+[6.269s] [ 43%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/minibot_interfaces/msg/lamp_command__type_support.cpp.o[0m
+[6.342s] [ 46%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/minibot_interfaces/msg/robot_state__type_support.cpp.o[0m
+[6.351s] [ 48%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/minibot_interfaces/msg/detail/lamp_command__type_support_c.cpp.o[0m
+[6.354s] [ 51%] [32mBuilding C object CMakeFiles/minibot_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/minibot_interfaces/msg/detail/lamp_command__type_support.c.o[0m
+[6.403s] [ 53%] [32m[1mLinking CXX shared library libminibot_interfaces__rosidl_typesupport_c.so[0m
+[6.486s] [ 53%] Built target minibot_interfaces__rosidl_typesupport_c
+[6.491s] [ 56%] [32mBuilding C object CMakeFiles/minibot_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/minibot_interfaces/msg/detail/robot_state__type_support.c.o[0m
+[6.514s] [ 58%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/minibot_interfaces/msg/detail/robot_state__type_support_c.cpp.o[0m
+[6.574s] [ 61%] [32m[1mLinking C shared library libminibot_interfaces__rosidl_typesupport_introspection_c.so[0m
+[6.593s] [ 64%] [32mBuilding CXX object CMakeFiles/minibot_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/minibot_interfaces/msg/detail/dds_fastrtps/robot_state__type_support.cpp.o[0m
+[6.620s] [ 64%] Built target minibot_interfaces__rosidl_typesupport_introspection_c
+[6.627s] [ 66%] [32m[1mLinking CXX shared library libminibot_interfaces__rosidl_typesupport_cpp.so[0m
+[6.693s] [ 66%] Built target minibot_interfaces__rosidl_typesupport_cpp
+[7.045s] [ 69%] [32m[1mLinking CXX shared library libminibot_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[7.134s] [ 69%] Built target minibot_interfaces__rosidl_typesupport_introspection_cpp
+[7.295s] [ 71%] [32m[1mLinking CXX shared library libminibot_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[7.395s] [ 71%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c
+[7.413s] [ 74%] [32m[1mLinking CXX shared library libminibot_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[7.495s] [ 74%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_cpp
+[7.504s] [ 74%] Built target minibot_interfaces
+[7.513s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[7.907s] [ 76%] Built target minibot_interfaces__py
+[7.915s] [ 79%] [32mBuilding C object CMakeFiles/minibot_interfaces__rosidl_generator_py.dir/rosidl_generator_py/minibot_interfaces/msg/_lamp_command_s.c.o[0m
+[7.915s] [ 82%] [32mBuilding C object CMakeFiles/minibot_interfaces__rosidl_generator_py.dir/rosidl_generator_py/minibot_interfaces/msg/_robot_state_s.c.o[0m
+[8.027s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/minibot_interfaces/libminibot_interfaces__rosidl_generator_py.so[0m
+[8.051s] [ 84%] Built target minibot_interfaces__rosidl_generator_py
+[8.064s] [ 89%] [32mBuilding C object CMakeFiles/minibot_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/minibot_interfaces/_minibot_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[8.064s] [ 89%] [32mBuilding C object CMakeFiles/minibot_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/minibot_interfaces/_minibot_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[8.064s] [ 92%] [32mBuilding C object CMakeFiles/minibot_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/minibot_interfaces/_minibot_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[8.192s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/minibot_interfaces/minibot_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[8.193s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/minibot_interfaces/minibot_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[8.194s] [100%] [32m[1mLinking C shared library rosidl_generator_py/minibot_interfaces/minibot_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[8.229s] [100%] Built target minibot_interfaces__rosidl_typesupport_c__pyext
+[8.229s] [100%] Built target minibot_interfaces__rosidl_typesupport_introspection_c__pyext
+[8.229s] [100%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c__pyext

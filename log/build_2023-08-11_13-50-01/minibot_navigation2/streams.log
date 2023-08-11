@@ -1,0 +1,39 @@
+[1.243s] Invoking command in '/home/kiro04/pinkbot/build/minibot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_navigation2 -- -j8 -l8
+[2.100s] Invoked command in '/home/kiro04/pinkbot/build/minibot_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_navigation2 -- -j8 -l8
+[2.585s] Invoking command in '/home/kiro04/pinkbot/build/minibot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_navigation2
+[2.770s] -- Install configuration: ""
+[2.771s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/config
+[2.771s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/config/mapper_params.yaml
+[2.771s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/launch
+[2.772s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/launch/navigation_launch.py
+[2.772s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/launch/bringup_launch.py
+[2.772s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/launch/rviz_launch.py
+[2.773s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/launch/localization_launch.py
+[2.773s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/launch/map_building.launch.py
+[2.774s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/maps
+[2.774s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/maps/pinklab_test1.yaml
+[2.774s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/maps/.empty
+[2.774s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/maps/simple_building.yaml
+[2.775s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/maps/simple_building.pgm
+[2.775s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/maps/pinklab_test1.pgm
+[2.775s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/params
+[2.775s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/params/nav2_params.yaml
+[2.775s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/rviz
+[2.776s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/rviz/map_building.rviz
+[2.776s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/rviz/nav2_view.rviz
+[2.776s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/ament_index/resource_index/package_run_dependencies/minibot_navigation2
+[2.776s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/ament_index/resource_index/parent_prefix_path/minibot_navigation2
+[2.776s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/environment/ament_prefix_path.sh
+[2.777s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/environment/ament_prefix_path.dsv
+[2.777s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/environment/path.sh
+[2.777s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/environment/path.dsv
+[2.777s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/local_setup.bash
+[2.777s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/local_setup.sh
+[2.778s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/local_setup.zsh
+[2.778s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/local_setup.dsv
+[2.778s] -- Installing: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/package.dsv
+[2.778s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/ament_index/resource_index/packages/minibot_navigation2
+[2.778s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/cmake/minibot_navigation2Config.cmake
+[2.779s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/cmake/minibot_navigation2Config-version.cmake
+[2.779s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_navigation2/share/minibot_navigation2/package.xml
+[2.831s] Invoked command in '/home/kiro04/pinkbot/build/minibot_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_navigation2

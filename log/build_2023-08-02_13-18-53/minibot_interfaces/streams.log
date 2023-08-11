@@ -1,0 +1,23 @@
+[0.027s] Invoking command in '/home/kiro04/pinkbot/build/minibot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_interfaces -- -j8 -l8
+[0.147s] [  2%] Built target minibot_interfaces__cpp
+[0.152s] [ 12%] Built target minibot_interfaces__rosidl_generator_c
+[0.154s] [ 12%] Built target ament_cmake_python_copy_minibot_interfaces
+[0.177s] [ 23%] Built target minibot_interfaces__rosidl_typesupport_introspection_cpp
+[0.183s] [ 43%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.183s] [ 53%] Built target minibot_interfaces__rosidl_typesupport_introspection_c
+[0.184s] [ 43%] Built target minibot_interfaces__rosidl_typesupport_cpp
+[0.185s] [ 64%] Built target minibot_interfaces__rosidl_typesupport_c
+[0.189s] [ 74%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c
+[0.201s] [ 74%] Built target minibot_interfaces
+[0.214s] [ 76%] Built target minibot_interfaces__py
+[0.238s] [ 84%] Built target minibot_interfaces__rosidl_generator_py
+[0.260s] [ 89%] Built target minibot_interfaces__rosidl_typesupport_c__pyext
+[0.261s] [ 94%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.262s] [100%] Built target minibot_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.647s] running egg_info
+[0.648s] writing minibot_interfaces.egg-info/PKG-INFO
+[0.649s] writing dependency_links to minibot_interfaces.egg-info/dependency_links.txt
+[0.649s] writing top-level names to minibot_interfaces.egg-info/top_level.txt
+[0.654s] reading manifest file 'minibot_interfaces.egg-info/SOURCES.txt'
+[0.655s] writing manifest file 'minibot_interfaces.egg-info/SOURCES.txt'
+[0.686s] [100%] Built target ament_cmake_python_build_minibot_interfaces_egg

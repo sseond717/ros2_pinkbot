@@ -1,0 +1,4 @@
+[console_scripts]
+cmd_vel_publisher = minibot_marker.cmd_vel_publisher:main
+marker_publisher = minibot_marker.marker_publisher:main
+

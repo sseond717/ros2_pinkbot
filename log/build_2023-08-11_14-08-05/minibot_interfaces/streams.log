@@ -1,0 +1,161 @@
+[0.055s] Invoking command in '/home/kiro04/pinkbot/build/minibot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_interfaces -- -j8 -l8
+[0.567s] [  2%] Built target minibot_interfaces__cpp
+[0.567s] [ 12%] Built target minibot_interfaces__rosidl_generator_c
+[0.568s] [ 12%] Built target ament_cmake_python_copy_minibot_interfaces
+[0.568s] [ 23%] Built target minibot_interfaces__rosidl_typesupport_cpp
+[0.568s] [ 33%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.568s] [ 43%] Built target minibot_interfaces__rosidl_typesupport_introspection_cpp
+[0.568s] [ 53%] Built target minibot_interfaces__rosidl_typesupport_c
+[0.568s] [ 74%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c
+[0.568s] [ 74%] Built target minibot_interfaces__rosidl_typesupport_introspection_c
+[0.568s] [ 74%] Built target minibot_interfaces
+[0.568s] [ 76%] Built target minibot_interfaces__py
+[0.569s] [ 84%] Built target minibot_interfaces__rosidl_generator_py
+[0.569s] [ 89%] Built target minibot_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.569s] [ 94%] Built target minibot_interfaces__rosidl_typesupport_c__pyext
+[0.569s] [100%] Built target minibot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.613s] running egg_info
+[0.615s] writing minibot_interfaces.egg-info/PKG-INFO
+[0.615s] writing dependency_links to minibot_interfaces.egg-info/dependency_links.txt
+[0.616s] writing top-level names to minibot_interfaces.egg-info/top_level.txt
+[0.620s] reading manifest file 'minibot_interfaces.egg-info/SOURCES.txt'
+[0.621s] writing manifest file 'minibot_interfaces.egg-info/SOURCES.txt'
+[0.656s] [100%] Built target ament_cmake_python_build_minibot_interfaces_egg
+[0.941s] Invoked command in '/home/kiro04/pinkbot/build/minibot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_interfaces -- -j8 -l8
+[1.196s] Invoking command in '/home/kiro04/pinkbot/build/minibot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_interfaces
+[1.308s] -- Install configuration: ""
+[1.308s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/ament_index/resource_index/rosidl_interfaces/minibot_interfaces
+[1.310s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces
+[1.311s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg
+[1.311s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail
+[1.312s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__type_support.h
+[1.313s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__struct.h
+[1.313s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__functions.c
+[1.315s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__functions.c
+[1.316s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__functions.h
+[1.316s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__struct.h
+[1.316s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__functions.h
+[1.316s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__type_support.h
+[1.317s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/rosidl_generator_c__visibility_control.h
+[1.317s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/robot_state.h
+[1.317s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/lamp_command.h
+[1.317s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/environment/library_path.sh
+[1.317s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/environment/library_path.dsv
+[1.317s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/lib/libminibot_interfaces__rosidl_generator_c.so
+[1.317s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces
+[1.318s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg
+[1.318s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.318s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail
+[1.318s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__rosidl_typesupport_fastrtps_c.h
+[1.318s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__rosidl_typesupport_fastrtps_c.h
+[1.318s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/lib/libminibot_interfaces__rosidl_typesupport_fastrtps_c.so
+[1.318s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces
+[1.319s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg
+[1.319s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/robot_state.hpp
+[1.319s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail
+[1.319s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__struct.hpp
+[1.319s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__builder.hpp
+[1.319s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__traits.hpp
+[1.319s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__builder.hpp
+[1.319s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__traits.hpp
+[1.320s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__struct.hpp
+[1.320s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/lamp_command.hpp
+[1.320s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces
+[1.320s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg
+[1.320s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail
+[1.320s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/dds_fastrtps
+[1.321s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__rosidl_typesupport_fastrtps_cpp.hpp
+[1.321s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__rosidl_typesupport_fastrtps_cpp.hpp
+[1.322s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.322s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/lib/libminibot_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[1.322s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces
+[1.322s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg
+[1.322s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail
+[1.323s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__rosidl_typesupport_introspection_c.h
+[1.323s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__type_support.c
+[1.323s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__type_support.c
+[1.323s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__rosidl_typesupport_introspection_c.h
+[1.324s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.324s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/lib/libminibot_interfaces__rosidl_typesupport_introspection_c.so
+[1.324s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/lib/libminibot_interfaces__rosidl_typesupport_c.so
+[1.324s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces
+[1.324s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg
+[1.324s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail
+[1.324s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__type_support.cpp
+[1.324s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__rosidl_typesupport_introspection_cpp.hpp
+[1.325s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/robot_state__type_support.cpp
+[1.325s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/include/minibot_interfaces/minibot_interfaces/msg/detail/lamp_command__rosidl_typesupport_introspection_cpp.hpp
+[1.325s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/lib/libminibot_interfaces__rosidl_typesupport_introspection_cpp.so
+[1.325s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/lib/libminibot_interfaces__rosidl_typesupport_cpp.so
+[1.326s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/environment/pythonpath.sh
+[1.326s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/environment/pythonpath.dsv
+[1.326s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces-0.0.0-py3.10.egg-info
+[1.327s] -- Installing: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[1.327s] -- Installing: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.327s] -- Installing: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.327s] -- Installing: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[1.327s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces
+[1.328s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/__init__.py
+[1.328s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/msg
+[1.328s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/msg/__init__.py
+[1.328s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/msg/_lamp_command.py
+[1.329s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/msg/_lamp_command_s.c
+[1.329s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/msg/_robot_state.py
+[1.329s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/msg/_robot_state_s.c
+[1.329s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/_minibot_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.329s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/_minibot_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[1.330s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/minibot_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.330s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/minibot_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.330s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/minibot_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.330s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/libminibot_interfaces__rosidl_generator_py.so
+[1.330s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/_minibot_interfaces_s.ep.rosidl_typesupport_c.c
+[1.380s] Listing '/home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces'...
+[1.381s] Listing '/home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/msg'...
+[1.388s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/minibot_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.388s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/minibot_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.388s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages/minibot_interfaces/minibot_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.389s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/lib/libminibot_interfaces__rosidl_generator_py.so
+[1.389s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/msg/LampCommand.idl
+[1.389s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/msg/RobotState.idl
+[1.389s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/msg/LampCommand.msg
+[1.389s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/msg/RobotState.msg
+[1.390s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/ament_index/resource_index/package_run_dependencies/minibot_interfaces
+[1.391s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/ament_index/resource_index/parent_prefix_path/minibot_interfaces
+[1.391s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/environment/ament_prefix_path.sh
+[1.391s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/environment/ament_prefix_path.dsv
+[1.391s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/environment/path.sh
+[1.391s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/environment/path.dsv
+[1.391s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/local_setup.bash
+[1.391s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/local_setup.sh
+[1.391s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/local_setup.zsh
+[1.392s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/local_setup.dsv
+[1.392s] -- Installing: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/package.dsv
+[1.392s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/ament_index/resource_index/packages/minibot_interfaces
+[1.392s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/export_minibot_interfaces__rosidl_generator_cExport.cmake
+[1.392s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/export_minibot_interfaces__rosidl_generator_cExport-noconfig.cmake
+[1.392s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/export_minibot_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[1.392s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/export_minibot_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/export_minibot_interfaces__rosidl_generator_cppExport.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/export_minibot_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/export_minibot_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfaces__rosidl_typesupport_cExport.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.393s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfaces__rosidl_typesupport_cppExport.cmake
+[1.394s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[1.394s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/export_minibot_interfaces__rosidl_generator_pyExport.cmake
+[1.394s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/export_minibot_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[1.394s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/rosidl_cmake-extras.cmake
+[1.394s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.394s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.394s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[1.394s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[1.394s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.395s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.395s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfacesConfig.cmake
+[1.395s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/cmake/minibot_interfacesConfig-version.cmake
+[1.395s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_interfaces/share/minibot_interfaces/package.xml
+[1.449s] Invoked command in '/home/kiro04/pinkbot/build/minibot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_interfaces

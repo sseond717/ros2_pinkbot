@@ -1,0 +1,30 @@
+[0.123s] Invoking command in '/home/kiro04/pinkbot/build/minibot_gazebo': CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_description:/home/kiro04/pinkbot/install/minibot_navigation2:/home/kiro04/pinkbot/install/minibot_controllers:/home/kiro04/pinkbot/install/minibot_interfaces:/home/kiro04/pinkbot/install/minibot_hardware_interface:/home/kiro04/pinkbot/install/minibot_bringup:/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_gazebo -- -j8 -l8
+[0.532s] Invoked command in '/home/kiro04/pinkbot/build/minibot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_description:/home/kiro04/pinkbot/install/minibot_navigation2:/home/kiro04/pinkbot/install/minibot_controllers:/home/kiro04/pinkbot/install/minibot_interfaces:/home/kiro04/pinkbot/install/minibot_hardware_interface:/home/kiro04/pinkbot/install/minibot_bringup:/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_gazebo -- -j8 -l8
+[0.771s] Invoking command in '/home/kiro04/pinkbot/build/minibot_gazebo': CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_description:/home/kiro04/pinkbot/install/minibot_navigation2:/home/kiro04/pinkbot/install/minibot_controllers:/home/kiro04/pinkbot/install/minibot_interfaces:/home/kiro04/pinkbot/install/minibot_hardware_interface:/home/kiro04/pinkbot/install/minibot_bringup:/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_gazebo
+[1.004s] -- Install configuration: ""
+[1.004s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/launch
+[1.004s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/launch/bringup_gazebo.launch.py
+[1.004s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/worlds
+[1.005s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/worlds/empty.world
+[1.005s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/worlds/simple_building.world
+[1.005s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models
+[1.005s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/.empty
+[1.005s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/simple_building
+[1.011s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/simple_building/model.sdf
+[1.011s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/simple_building/model.config
+[1.011s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/ament_index/resource_index/package_run_dependencies/minibot_gazebo
+[1.012s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/ament_index/resource_index/parent_prefix_path/minibot_gazebo
+[1.012s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/environment/ament_prefix_path.sh
+[1.012s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/environment/ament_prefix_path.dsv
+[1.012s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/environment/path.sh
+[1.012s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/environment/path.dsv
+[1.012s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/local_setup.bash
+[1.013s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/local_setup.sh
+[1.013s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/local_setup.zsh
+[1.013s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/local_setup.dsv
+[1.013s] -- Installing: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/package.dsv
+[1.013s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/ament_index/resource_index/packages/minibot_gazebo
+[1.013s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/cmake/minibot_gazeboConfig.cmake
+[1.014s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/cmake/minibot_gazeboConfig-version.cmake
+[1.014s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_gazebo/share/minibot_gazebo/package.xml
+[1.100s] Invoked command in '/home/kiro04/pinkbot/build/minibot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_description:/home/kiro04/pinkbot/install/minibot_navigation2:/home/kiro04/pinkbot/install/minibot_controllers:/home/kiro04/pinkbot/install/minibot_interfaces:/home/kiro04/pinkbot/install/minibot_hardware_interface:/home/kiro04/pinkbot/install/minibot_bringup:/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/yolo_package:/home/kiro04/pinkbot/install/minibot_marker:/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_gazebo

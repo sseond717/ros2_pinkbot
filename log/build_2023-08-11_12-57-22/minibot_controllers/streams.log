@@ -1,0 +1,33 @@
+[0.013s] Invoking command in '/home/kiro04/pinkbot/build/minibot_controllers': AMENT_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/kiro04/pinkbot/install/minibot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_controllers -- -j8 -l8
+[0.153s] [100%] Built target minibot_controllers
+[0.183s] Invoked command in '/home/kiro04/pinkbot/build/minibot_controllers' returned '0': AMENT_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/kiro04/pinkbot/install/minibot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_controllers -- -j8 -l8
+[0.356s] Invoking command in '/home/kiro04/pinkbot/build/minibot_controllers': AMENT_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/kiro04/pinkbot/install/minibot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_controllers
+[0.476s] -- Install configuration: ""
+[0.477s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/controller_plugins.xml
+[0.478s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/lib/libminibot_controllers.so
+[0.479s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/include
+[0.479s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/include/minibot_gpio_controller
+[0.480s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/include/minibot_gpio_controller/gpio_controller.hpp
+[0.481s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/controller_plugins.xml
+[0.481s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/library_path.sh
+[0.481s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/library_path.dsv
+[0.482s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/ament_index/resource_index/package_run_dependencies/minibot_controllers
+[0.482s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/ament_index/resource_index/parent_prefix_path/minibot_controllers
+[0.483s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/ament_prefix_path.sh
+[0.484s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/ament_prefix_path.dsv
+[0.484s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/path.sh
+[0.485s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/path.dsv
+[0.492s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/local_setup.bash
+[0.492s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/local_setup.sh
+[0.493s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/local_setup.zsh
+[0.493s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/local_setup.dsv
+[0.493s] -- Installing: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/package.dsv
+[0.493s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/ament_index/resource_index/packages/minibot_controllers
+[0.496s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/ament_index/resource_index/controller_interface__pluginlib__plugin/minibot_controllers
+[0.496s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.496s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.496s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/ament_cmake_export_libraries-extras.cmake
+[0.497s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/minibot_controllersConfig.cmake
+[0.497s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/minibot_controllersConfig-version.cmake
+[0.497s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_controllers/share/minibot_controllers/package.xml
+[0.510s] Invoked command in '/home/kiro04/pinkbot/build/minibot_controllers' returned '0': AMENT_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/kiro04/pinkbot/install/minibot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kiro04/pinkbot/install/minibot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_controllers

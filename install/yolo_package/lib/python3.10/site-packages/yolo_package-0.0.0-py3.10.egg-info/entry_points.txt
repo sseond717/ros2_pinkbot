@@ -1,0 +1,4 @@
+[console_scripts]
+yolo_madel = yolo_package.yolo_madel:main
+yolo_node = yolo_package.yolo_node:main
+

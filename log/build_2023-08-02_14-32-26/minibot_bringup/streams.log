@@ -1,0 +1,30 @@
+[0.093s] Invoking command in '/home/kiro04/pinkbot/build/minibot_bringup': CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/minibot_description:/home/kiro04/pinkbot/install/minibot_navigation2:/home/kiro04/pinkbot/install/minibot_controllers:/home/kiro04/pinkbot/install/minibot_interfaces:/home/kiro04/pinkbot/install/minibot_hardware_interface:/home/kiro04/pinkbot/install/minibot_bringup:/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_bringup -- -j8 -l8
+[0.850s] Invoked command in '/home/kiro04/pinkbot/build/minibot_bringup' returned '0': CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/minibot_description:/home/kiro04/pinkbot/install/minibot_navigation2:/home/kiro04/pinkbot/install/minibot_controllers:/home/kiro04/pinkbot/install/minibot_interfaces:/home/kiro04/pinkbot/install/minibot_hardware_interface:/home/kiro04/pinkbot/install/minibot_bringup:/opt/ros/humble /home/kiro04/.local/bin/cmake --build /home/kiro04/pinkbot/build/minibot_bringup -- -j8 -l8
+[1.601s] Invoking command in '/home/kiro04/pinkbot/build/minibot_bringup': CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/minibot_description:/home/kiro04/pinkbot/install/minibot_navigation2:/home/kiro04/pinkbot/install/minibot_controllers:/home/kiro04/pinkbot/install/minibot_interfaces:/home/kiro04/pinkbot/install/minibot_hardware_interface:/home/kiro04/pinkbot/install/minibot_bringup:/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_bringup
+[2.129s] -- Install configuration: ""
+[2.130s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/config
+[2.132s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/config/ydlidar.yaml
+[2.134s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/config/minibot_controllers_gazebo.yaml
+[2.134s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/config/minibot_controllers.yaml
+[2.135s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/launch
+[2.135s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/launch/bringup_robot_gazebo.launch.py
+[2.135s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/launch/bringup_robot.launch.py
+[2.136s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/rviz
+[2.136s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/rviz/robot.rviz
+[2.136s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/rviz/.empty
+[2.137s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/ament_index/resource_index/package_run_dependencies/minibot_bringup
+[2.137s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/ament_index/resource_index/parent_prefix_path/minibot_bringup
+[2.137s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/environment/ament_prefix_path.sh
+[2.139s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/environment/ament_prefix_path.dsv
+[2.142s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/environment/path.sh
+[2.145s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/environment/path.dsv
+[2.148s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/local_setup.bash
+[2.149s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/local_setup.sh
+[2.150s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/local_setup.zsh
+[2.150s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/local_setup.dsv
+[2.151s] -- Installing: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/package.dsv
+[2.152s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/ament_index/resource_index/packages/minibot_bringup
+[2.152s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/cmake/minibot_bringupConfig.cmake
+[2.153s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/cmake/minibot_bringupConfig-version.cmake
+[2.153s] -- Up-to-date: /home/kiro04/pinkbot/install/minibot_bringup/share/minibot_bringup/package.xml
+[2.296s] Invoked command in '/home/kiro04/pinkbot/build/minibot_bringup' returned '0': CMAKE_PREFIX_PATH=/home/kiro04/pinkbot/install/minibot_gazebo:/home/kiro04/pinkbot/install/minibot_description:/home/kiro04/pinkbot/install/minibot_navigation2:/home/kiro04/pinkbot/install/minibot_controllers:/home/kiro04/pinkbot/install/minibot_interfaces:/home/kiro04/pinkbot/install/minibot_hardware_interface:/home/kiro04/pinkbot/install/minibot_bringup:/opt/ros/humble /home/kiro04/.local/bin/cmake --install /home/kiro04/pinkbot/build/minibot_bringup
